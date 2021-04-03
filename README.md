@@ -1,4 +1,5 @@
 - 👋 Hello! I am Talvin Jacobs
 - 🌱 Currently studying at Middlesex University
 - 📫 You can reach me via email (talvinjacobs@gmail.com) or through Discord: Leux#5918
+- 🧊 HackTheBox Profile: https://app.hackthebox.eu/profile/538002
 - [Old GitHub]: https://github.com/TalvinJoshuaJacobs ✨
