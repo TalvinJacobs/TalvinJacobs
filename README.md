@@ -1,6 +1,6 @@
 - 👋 Hello! I am Talvin Jacobs
 - 🎓 BSc Cyber Security & Digital Forensics at Middlesex University (2021)
 - 🎓 HND Cyber Security & Ethical Hacking (2020)
-- 📫 You can reach me via email (talvinjacobs@gmail.com) or through Discord: Leux#5918
+- 📫 You can reach me via email (talvinjacobs@gmail.com) or through Discord: Leux#7777
 - 🧊 HackTheBox Profile: https://app.hackthebox.eu/profile/538002
 - [Old GitHub]: https://github.com/TalvinJoshuaJacobs ✨
